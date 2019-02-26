@@ -24,7 +24,8 @@ Model<Domain>
 #View
  - InputView :
   사용자에게 입력받은 데이터를 MainController로 전달하는 Class
- - ResultView
+  
+ - ResultView :
   MainController에서 전달받은 데이터를 출력하는 로직을 관리하는 Class
 
 #Controller
