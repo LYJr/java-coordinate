@@ -52,3 +52,8 @@ Point의 개수가 4개일 경우 생성되는 사각형의 객체
 
 
 ![default](https://user-images.githubusercontent.com/40202945/53384424-34910700-39be-11e9-8486-e8e154abaef7.jpg)
+
+
+##회고
+
+로직 리팩토링 필요하여 
